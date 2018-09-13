@@ -1,5 +1,9 @@
+import turtle
 
-print("hellor World")
+my_turtle = turtle.Turtle()
+my_turtle.forward(100)
+
+
 
 
 
